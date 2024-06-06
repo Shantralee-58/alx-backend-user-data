@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+"""
+This module provides authentication functionality for the API.
+
+It includes classes and methods for handling different types of authentication.
+"""
+
 from typing import List, TypeVar
 from flask import Flask, request
 
